@@ -176,6 +176,8 @@
       text-decoration: underline; }
     .header__flex a:hover {
       color: magenta; }
+    .header__flex a:active {
+      color: magenta; }
   .header__flex nav {
     text-align: center; }
   .header__flex nav a:nth-child(2) {
