@@ -115,8 +115,7 @@
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem; }
+  background-color: darkorange; }
   .bar p {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -129,11 +128,11 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    letter-spacing: 1rem;
-    background-color: transparent;
+    letter-spacing: 2rem;
+    background-color: darkorange;
     color: aqua;
     text-align: center;
-    font-size: 2rem; }
+    font-size: 1.5rem; }
 
 /* menu bar!!! */
 .header__flex {
