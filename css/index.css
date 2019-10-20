@@ -101,7 +101,7 @@
 .header {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
-  background: url("/img/fck.jpg");
+  background: url("../img/warholsmall.jpg");
   background-size: cover;
   background-position: center;
   -webkit-animation-duration: 4s;
@@ -129,11 +129,11 @@
     transform: translateY(-100%);
     opacity: 0; } }
   .header h1 {
-    color: aqua;
+    color: orangered;
     padding-top: 2rem;
     font-size: 30px; }
   .header span {
-    color: darkorange; }
+    color: magenta; }
   .header h6 {
     font-size: 6px; }
 
@@ -352,8 +352,8 @@
     justify-content: center;
     padding-left: 4rem;
     padding-right: 4rem;
-    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9); }
+    -webkit-box-shadow: 0 4px 8px 0 rgba(172, 6, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+    box-shadow: 0 4px 8px 0 rgba(172, 6, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9); }
 
 .projects {
   margin-top: 2rem;
@@ -391,8 +391,8 @@
     padding-bottom: 1px; } }
 
 main .card {
-  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(172, 95, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  box-shadow: 0 4px 8px 0 rgba(172, 95, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   width: 256px;
   height: 128px;
   margin: 4px;
@@ -485,8 +485,8 @@ form .submit:hover {
 .quicklinks .links nav {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9); }
+  -webkit-box-shadow: 0 4px 8px 0 rgba(172, 6, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  box-shadow: 0 4px 8px 0 rgba(172, 6, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9); }
 
 .aboutme {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
@@ -508,7 +508,7 @@ form .submit:hover {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   margin-top: 2rem;
-  background-image: url("/img/pngfind.com-php-logo-transparent-png-5994096.png");
+  background: url("../../img/portfolio2.jpg");
   background-position: center;
   background-size: cover;
   height: auto;
@@ -523,12 +523,14 @@ form .submit:hover {
     height: 100vh; }
   .intro p, .intro h2, .intro h3, .intro h4 {
     background-color: rgba(2, 38, 48, 0.788);
-    margin: 0; }
+    margin: 0;
+    padding: 30px; }
 
 .skills {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   line-height: 8em;
+  background-image: url("/img/pngfind.com-php-logo-transparent-png-5994096.png");
   margin-top: 2rem;
   background-color: rgba(2, 38, 48, 0.788);
   padding: 2rem; }
@@ -557,7 +559,7 @@ form .submit:hover {
   word-spacing: 8rem;
   background-color: transparent;
   max-width: 33rem;
-  color: darkorange;
+  color: orangered;
   background-color: transparent; }
   .iconfonts div i {
     padding: 10px;
@@ -601,8 +603,8 @@ body {
   font-size: 30px; }
 
 .onewords {
-  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(1, 3, 3, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+  box-shadow: 0 4px 8px 0 rgba(1, 3, 3, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
   margin-top: 2rem;
   padding: 2rem;
   background-color: rgba(2, 38, 48, 0.788);
@@ -685,6 +687,8 @@ body {
   .client div p {
     -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(172, 114, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+    box-shadow: 0 4px 8px 0 rgba(172, 114, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
     padding-top: 1rem;
     padding-bottom: 1rem;
     font-size: 22px;
@@ -694,8 +698,8 @@ body {
     background-color: rgba(2, 38, 48, 0.788); }
   .client .client2 div {
     width: auto;
-    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9); }
+    -webkit-box-shadow: 0 4px 8px 0 rgba(172, 6, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+    box-shadow: 0 4px 8px 0 rgba(172, 6, 6, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9); }
 
 .footer {
   max-width: auto;
